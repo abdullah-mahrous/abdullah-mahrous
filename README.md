@@ -46,6 +46,13 @@
 
 ---
 
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-mahrous&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mahrous&layout=compact&theme=tokyonight" />
@@ -53,17 +60,10 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-mahrous&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-mahrous-14b9111b9/">
-    <img src="https://img.shields.io/badge/LinkedIn?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:abdullah.mohammed.mahrous@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge" />
