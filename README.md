@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mahrous</h1>
-<h3 align="center">Frontend Developer | Vue.js | Real-time Applications</h3>
+<h3 align="center">Frontend Developer | Vue.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Vue.js+Specialist;Real-time+Applications;Performance+%26+UX+Focused&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Vue.js;Performance+%26+UX+Focused&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Frontend Developer specializing in **Vue.js**
-- ⚡ Building **scalable & real-time web applications**
+- ⚡ Building **scalable web applications**
 - 🔥 Focused on **performance optimization & clean code**
 - 🌐 Interested in **SEO, Accessibility (a11y) & Responsive Design**
 - 🧠 Familiar with **Node.js, Express & APIs**
@@ -33,8 +33,7 @@
 ---
 
 ### 🔹 Clinic Manager
-- Scalable clinic management system with real-time features (Socket.IO)  
-- Includes pagination and efficient data handling  
+- Scalable clinic management system with real-time features
 👉 https://github.com/Simi-techno/Clinic-Manager-Frontend  
 
 ---
@@ -64,10 +63,10 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-mahrous-14b9111b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:abdullah.mohammed.mahrous@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
